@@ -1,10 +1,32 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+  <img height="200" src="https://media.tenor.com/QHp-YQCKnHMAAAAM/cat-keyboard.gif"  />
 </div>
 
 ###
 
-<h2 align="center">Hello, World👋! I'm Ad//</h2>
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kuyaadi.kuyaadi&"  />
+</div>
+
+###
+
+<h1 align="left">Hello, World👋! I'm Ad//</h1>
+
+###
+
+<p align="left">I'm Adrian Javier and I am currently studying MERN</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">🐛 Creating bugs since 2021!<br>👽 Kapag kaya ng iba, edi wow!<br>💻 Puro na lang error</p>
 
 ###
 
@@ -67,5 +89,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge" height="30" alt="webflow logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuyaadi/kuyaadi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuyaadi/kuyaadi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kuyaadi/kuyaadi/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
