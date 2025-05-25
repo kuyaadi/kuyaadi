@@ -3,16 +3,12 @@
 ###
 
 <br clear="both">
-
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kuyaadi.kuyaadi&"  />
+</div>
 ###
 
 <h1 align="left">Hello, World👋! I'm Ad//</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kuyaadi.kuyaadi&"  />
-</div>
 
 ###
 
