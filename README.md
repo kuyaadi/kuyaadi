@@ -1,22 +1,22 @@
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kuyaadi.kuyaadi&"  />
 </div>
 
-<h1 align="center">Hello, World👋! I'm Ad//</h1>
-<p align="center">I'm Adrian Javier and I am currently studying MERN</p>
-<h2 align="center">About Me</h2>
+<h1 align="left">Hello, World👋! I'm Ad//</h1>
+<p align="left">I'm Adrian Javier and I am currently studying MERN</p>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="center">🐛 Creating bugs since 2021!<br>👽 Kapag kaya ng iba, edi wow!<br>💻 Puro na lang error</p>
+<p align="left">🐛 Creating bugs since 2021!<br>👽 Kapag kaya ng iba, edi wow!<br>💻 Puro na lang error</p>
 
 ###
 
-<h2 align="center">💻Tech Stack:</h2>
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
