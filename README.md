@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black&style=for-the-badge" height="30" alt="svg logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
