@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="30" alt="behance logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="30" alt="composer logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
