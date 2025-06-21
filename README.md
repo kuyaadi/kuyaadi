@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kuyaadi.kuyaadi&"  />
 </div>
 
-<h1 align="left">Hello, World👋! I'm Ad//</h1>
+<h1 align="center">Hello, World👋! I'm Ad//</h1>
 <p align="left">I'm Adrian Javier and I am currently studying MERN Stack</p>
 <h2 align="left">About Me</h2>
 
