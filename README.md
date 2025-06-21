@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello, World👋! I'm Ad//</h1>
-<p align="center">BSIT - Student at DCCP, 4th Year College</p>
+<p align="center">BSIT - Students at DCCP, 4th Year College</p>
 <h2 align="left">About Me</h2>
 
 ###
