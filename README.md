@@ -39,17 +39,6 @@
 </div>
 
 ---
-## 🏅 GitHub Achievements
-<p align="left">
-  <img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-blueviolet?style=for-the-badge&logo=git&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-2020-blue?style=for-the-badge&logo=snowflake&logoColor=white" alt="Arctic Contributor" />
-  <img src="https://img.shields.io/badge/Bug%20Hunter-Reported%20Issues-red?style=for-the-badge&logo=bugatti&logoColor=white" alt="Bug Hunter" />
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-Shared%20Knowledge-brightgreen?style=for-the-badge&logo=markdown&logoColor=white" alt="Galaxy Brain" />
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Co--authored%20Commits-yellow?style=for-the-badge&logo=github&logoColor=black" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Starstruck-Starred%20Repos-ff69b4?style=for-the-badge&logo=starship&logoColor=white" alt="Starstruck" />
-  <img src="https://img.shields.io/badge/All--Star-Full%20Profile%20+%20Contributions-orange?style=for-the-badge&logo=dependabot&logoColor=white" alt="All-Star" />
-</p>
-
 
 ## 📊 GitHub Stats
 
