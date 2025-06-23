@@ -76,15 +76,10 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuyaadi&layout=compact&theme=dracula&hide_border=true" 
-    height="180"
-  />
-  <br /><br />
-  <img 
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=kuyaadi&theme=dracula" 
-    alt="GitHub Contribution Graph"
-  />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kuyaadi&theme=dracula" 
+  alt="GitHub Contribution Graph"
+/>
 </div>
 
 
