@@ -45,14 +45,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- GitHub Stats -->
+<div>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=kuyaadi&show_icons=true&theme=dracula&count_private=true" 
     height="150" 
   />
 
-  <!-- Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=kuyaadi&theme=dracula&hide_border=false" 
     height="150" 
