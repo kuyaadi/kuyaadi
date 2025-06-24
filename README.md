@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kuyaadi.kuyaadi" />
 </div>
 
-<h1 align="center">Hello, World 👋 I'm Ad //</h1>
+<h1 style="font-family: 'Mania', sans-serif;">Hello, World 👋 I'm Ad //</h1>
 <p align="center"><strong>BSIT Student at DCCP | 4th Year College</strong></p>
 
 ---
