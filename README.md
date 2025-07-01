@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 🐛 Creating bugs since 2021  
-👽 Kapag kaya ng iba, edi wow! 
+👽 *Kapag kaya ng iba, edi wow!*
 💻 Puro na lang error
 
 ---
