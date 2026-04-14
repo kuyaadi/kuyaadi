@@ -56,9 +56,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kuyaadi&theme=dracula"/>
-</div>
+</div> -->
 
 ---
 
